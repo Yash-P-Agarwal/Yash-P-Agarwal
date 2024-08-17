@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a Full Stack Web Developer.<br>🌱 I’m currently learning ReactJS.<br>💬 Ask me about Web Development.<br>
+🔭 I’m a Full Stack Web Developer.<br>💬 Ask me about Web Development.<br>
 
 
 ## 🌐 Socials:
